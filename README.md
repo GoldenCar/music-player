@@ -2,16 +2,6 @@
 
 
 
-## Contact me
-
-*email:* kadhem03@gmail.com
-
-*Gitter:* https://gitter.im/Moda20TuneIn/community
-
-Thank you in advance 👍
-
-
-
 ## Getting Started 🚀
 
 - Clone the repo
